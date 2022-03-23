@@ -1,0 +1,15 @@
+C:\Users\cloudmaster\Revature\PhirithP\wk-3\ClassesOOP1\obj\Debug\net6.0\ClassesOOP1.csproj.AssemblyReference.cache
+C:\Users\cloudmaster\Revature\PhirithP\wk-3\ClassesOOP1\obj\Debug\net6.0\ClassesOOP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cloudmaster\Revature\PhirithP\wk-3\ClassesOOP1\obj\Debug\net6.0\ClassesOOP1.AssemblyInfoInputs.cache
+C:\Users\cloudmaster\Revature\PhirithP\wk-3\ClassesOOP1\obj\Debug\net6.0\ClassesOOP1.AssemblyInfo.cs
+C:\Users\cloudmaster\Revature\PhirithP\wk-3\ClassesOOP1\obj\Debug\net6.0\ClassesOOP1.csproj.CoreCompileInputs.cache
+C:\Users\cloudmaster\Revature\PhirithP\wk-3\ClassesOOP1\bin\Debug\net6.0\ClassesOOP1.exe
+C:\Users\cloudmaster\Revature\PhirithP\wk-3\ClassesOOP1\bin\Debug\net6.0\ClassesOOP1.deps.json
+C:\Users\cloudmaster\Revature\PhirithP\wk-3\ClassesOOP1\bin\Debug\net6.0\ClassesOOP1.runtimeconfig.json
+C:\Users\cloudmaster\Revature\PhirithP\wk-3\ClassesOOP1\bin\Debug\net6.0\ClassesOOP1.dll
+C:\Users\cloudmaster\Revature\PhirithP\wk-3\ClassesOOP1\bin\Debug\net6.0\ClassesOOP1.pdb
+C:\Users\cloudmaster\Revature\PhirithP\wk-3\ClassesOOP1\obj\Debug\net6.0\ClassesOOP1.dll
+C:\Users\cloudmaster\Revature\PhirithP\wk-3\ClassesOOP1\obj\Debug\net6.0\refint\ClassesOOP1.dll
+C:\Users\cloudmaster\Revature\PhirithP\wk-3\ClassesOOP1\obj\Debug\net6.0\ClassesOOP1.pdb
+C:\Users\cloudmaster\Revature\PhirithP\wk-3\ClassesOOP1\obj\Debug\net6.0\ClassesOOP1.genruntimeconfig.cache
+C:\Users\cloudmaster\Revature\PhirithP\wk-3\ClassesOOP1\obj\Debug\net6.0\ref\ClassesOOP1.dll

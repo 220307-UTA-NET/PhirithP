@@ -1,0 +1,15 @@
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\FileInteraction\bin\Debug\net6.0\FileInteraction.exe
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\FileInteraction\bin\Debug\net6.0\FileInteraction.deps.json
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\FileInteraction\bin\Debug\net6.0\FileInteraction.runtimeconfig.json
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\FileInteraction\bin\Debug\net6.0\FileInteraction.dll
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\FileInteraction\bin\Debug\net6.0\FileInteraction.pdb
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\FileInteraction\obj\Debug\net6.0\FileInteraction.csproj.AssemblyReference.cache
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\FileInteraction\obj\Debug\net6.0\FileInteraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\FileInteraction\obj\Debug\net6.0\FileInteraction.AssemblyInfoInputs.cache
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\FileInteraction\obj\Debug\net6.0\FileInteraction.AssemblyInfo.cs
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\FileInteraction\obj\Debug\net6.0\FileInteraction.csproj.CoreCompileInputs.cache
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\FileInteraction\obj\Debug\net6.0\FileInteraction.dll
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\FileInteraction\obj\Debug\net6.0\refint\FileInteraction.dll
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\FileInteraction\obj\Debug\net6.0\FileInteraction.pdb
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\FileInteraction\obj\Debug\net6.0\FileInteraction.genruntimeconfig.cache
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\FileInteraction\obj\Debug\net6.0\ref\FileInteraction.dll

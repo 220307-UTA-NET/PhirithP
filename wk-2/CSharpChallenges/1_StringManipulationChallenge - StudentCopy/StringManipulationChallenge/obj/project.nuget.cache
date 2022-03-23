@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "dfT9ZTB/f3reD5gq+K1AJw8ZiXZUjZ0nT24WCiewp6lsPT4iZFc2iWgVa+zDyhtIDJlAgKsX88eYXkzvtIywuw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cloudmaster\\Revature\\trainer_code\\wk-2\\CSharpChallenges\\1_StringManipulationChallenge - StudentCopy\\StringManipulationChallenge\\StringManipulationChallenge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cloudmaster\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\cloudmaster\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\cloudmaster\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\cloudmaster\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\cloudmaster\Revature\PhirithP\wk-3\Crypto\bin\Debug\net6.0\Crypto.exe
+C:\Users\cloudmaster\Revature\PhirithP\wk-3\Crypto\bin\Debug\net6.0\Crypto.deps.json
+C:\Users\cloudmaster\Revature\PhirithP\wk-3\Crypto\bin\Debug\net6.0\Crypto.runtimeconfig.json
+C:\Users\cloudmaster\Revature\PhirithP\wk-3\Crypto\bin\Debug\net6.0\Crypto.dll
+C:\Users\cloudmaster\Revature\PhirithP\wk-3\Crypto\bin\Debug\net6.0\Crypto.pdb
+C:\Users\cloudmaster\Revature\PhirithP\wk-3\Crypto\obj\Debug\net6.0\Crypto.csproj.AssemblyReference.cache
+C:\Users\cloudmaster\Revature\PhirithP\wk-3\Crypto\obj\Debug\net6.0\Crypto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cloudmaster\Revature\PhirithP\wk-3\Crypto\obj\Debug\net6.0\Crypto.AssemblyInfoInputs.cache
+C:\Users\cloudmaster\Revature\PhirithP\wk-3\Crypto\obj\Debug\net6.0\Crypto.AssemblyInfo.cs
+C:\Users\cloudmaster\Revature\PhirithP\wk-3\Crypto\obj\Debug\net6.0\Crypto.csproj.CoreCompileInputs.cache
+C:\Users\cloudmaster\Revature\PhirithP\wk-3\Crypto\obj\Debug\net6.0\Crypto.dll
+C:\Users\cloudmaster\Revature\PhirithP\wk-3\Crypto\obj\Debug\net6.0\refint\Crypto.dll
+C:\Users\cloudmaster\Revature\PhirithP\wk-3\Crypto\obj\Debug\net6.0\Crypto.pdb
+C:\Users\cloudmaster\Revature\PhirithP\wk-3\Crypto\obj\Debug\net6.0\Crypto.genruntimeconfig.cache
+C:\Users\cloudmaster\Revature\PhirithP\wk-3\Crypto\obj\Debug\net6.0\ref\Crypto.dll

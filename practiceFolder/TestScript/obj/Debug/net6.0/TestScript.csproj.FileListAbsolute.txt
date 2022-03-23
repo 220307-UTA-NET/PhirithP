@@ -1,0 +1,15 @@
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\TestScript\bin\Debug\net6.0\TestScript.exe
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\TestScript\bin\Debug\net6.0\TestScript.deps.json
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\TestScript\bin\Debug\net6.0\TestScript.runtimeconfig.json
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\TestScript\bin\Debug\net6.0\TestScript.dll
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\TestScript\bin\Debug\net6.0\TestScript.pdb
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\TestScript\obj\Debug\net6.0\TestScript.csproj.AssemblyReference.cache
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\TestScript\obj\Debug\net6.0\TestScript.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\TestScript\obj\Debug\net6.0\TestScript.AssemblyInfoInputs.cache
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\TestScript\obj\Debug\net6.0\TestScript.AssemblyInfo.cs
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\TestScript\obj\Debug\net6.0\TestScript.csproj.CoreCompileInputs.cache
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\TestScript\obj\Debug\net6.0\TestScript.dll
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\TestScript\obj\Debug\net6.0\refint\TestScript.dll
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\TestScript\obj\Debug\net6.0\TestScript.pdb
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\TestScript\obj\Debug\net6.0\TestScript.genruntimeconfig.cache
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\TestScript\obj\Debug\net6.0\ref\TestScript.dll

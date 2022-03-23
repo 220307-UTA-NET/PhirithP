@@ -1,0 +1,15 @@
+C:\Users\cloudmaster\Revature\PhirithP\Dotnet\FirstDotnet\bin\Debug\net6.0\FirstDotnet.exe
+C:\Users\cloudmaster\Revature\PhirithP\Dotnet\FirstDotnet\bin\Debug\net6.0\FirstDotnet.deps.json
+C:\Users\cloudmaster\Revature\PhirithP\Dotnet\FirstDotnet\bin\Debug\net6.0\FirstDotnet.runtimeconfig.json
+C:\Users\cloudmaster\Revature\PhirithP\Dotnet\FirstDotnet\bin\Debug\net6.0\FirstDotnet.dll
+C:\Users\cloudmaster\Revature\PhirithP\Dotnet\FirstDotnet\bin\Debug\net6.0\FirstDotnet.pdb
+C:\Users\cloudmaster\Revature\PhirithP\Dotnet\FirstDotnet\obj\Debug\net6.0\FirstDotnet.csproj.AssemblyReference.cache
+C:\Users\cloudmaster\Revature\PhirithP\Dotnet\FirstDotnet\obj\Debug\net6.0\FirstDotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cloudmaster\Revature\PhirithP\Dotnet\FirstDotnet\obj\Debug\net6.0\FirstDotnet.AssemblyInfoInputs.cache
+C:\Users\cloudmaster\Revature\PhirithP\Dotnet\FirstDotnet\obj\Debug\net6.0\FirstDotnet.AssemblyInfo.cs
+C:\Users\cloudmaster\Revature\PhirithP\Dotnet\FirstDotnet\obj\Debug\net6.0\FirstDotnet.csproj.CoreCompileInputs.cache
+C:\Users\cloudmaster\Revature\PhirithP\Dotnet\FirstDotnet\obj\Debug\net6.0\FirstDotnet.dll
+C:\Users\cloudmaster\Revature\PhirithP\Dotnet\FirstDotnet\obj\Debug\net6.0\refint\FirstDotnet.dll
+C:\Users\cloudmaster\Revature\PhirithP\Dotnet\FirstDotnet\obj\Debug\net6.0\FirstDotnet.pdb
+C:\Users\cloudmaster\Revature\PhirithP\Dotnet\FirstDotnet\obj\Debug\net6.0\FirstDotnet.genruntimeconfig.cache
+C:\Users\cloudmaster\Revature\PhirithP\Dotnet\FirstDotnet\obj\Debug\net6.0\ref\FirstDotnet.dll

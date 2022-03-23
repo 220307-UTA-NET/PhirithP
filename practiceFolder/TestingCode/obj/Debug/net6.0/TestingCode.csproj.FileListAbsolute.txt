@@ -1,0 +1,15 @@
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\TestingCode\bin\Debug\net6.0\TestingCode.exe
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\TestingCode\bin\Debug\net6.0\TestingCode.deps.json
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\TestingCode\bin\Debug\net6.0\TestingCode.runtimeconfig.json
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\TestingCode\bin\Debug\net6.0\TestingCode.dll
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\TestingCode\bin\Debug\net6.0\TestingCode.pdb
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\TestingCode\obj\Debug\net6.0\TestingCode.csproj.AssemblyReference.cache
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\TestingCode\obj\Debug\net6.0\TestingCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\TestingCode\obj\Debug\net6.0\TestingCode.AssemblyInfoInputs.cache
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\TestingCode\obj\Debug\net6.0\TestingCode.AssemblyInfo.cs
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\TestingCode\obj\Debug\net6.0\TestingCode.csproj.CoreCompileInputs.cache
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\TestingCode\obj\Debug\net6.0\TestingCode.dll
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\TestingCode\obj\Debug\net6.0\refint\TestingCode.dll
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\TestingCode\obj\Debug\net6.0\TestingCode.pdb
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\TestingCode\obj\Debug\net6.0\TestingCode.genruntimeconfig.cache
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\TestingCode\obj\Debug\net6.0\ref\TestingCode.dll

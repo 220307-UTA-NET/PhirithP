@@ -1,0 +1,5 @@
+C:\Users\cloudmaster\Revature\trainer_code\wk-2\CSharpChallenges\1_StringManipulationChallenge - StudentCopy\StringManipulationChallenge\obj\Debug\netcoreapp3.1\StringManipulationChallenge.csproj.AssemblyReference.cache
+C:\Users\cloudmaster\Revature\trainer_code\wk-2\CSharpChallenges\1_StringManipulationChallenge - StudentCopy\StringManipulationChallenge\obj\Debug\netcoreapp3.1\StringManipulationChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cloudmaster\Revature\trainer_code\wk-2\CSharpChallenges\1_StringManipulationChallenge - StudentCopy\StringManipulationChallenge\obj\Debug\netcoreapp3.1\StringManipulationChallenge.AssemblyInfoInputs.cache
+C:\Users\cloudmaster\Revature\trainer_code\wk-2\CSharpChallenges\1_StringManipulationChallenge - StudentCopy\StringManipulationChallenge\obj\Debug\netcoreapp3.1\StringManipulationChallenge.AssemblyInfo.cs
+C:\Users\cloudmaster\Revature\trainer_code\wk-2\CSharpChallenges\1_StringManipulationChallenge - StudentCopy\StringManipulationChallenge\obj\Debug\netcoreapp3.1\StringManipulationChallenge.csproj.CoreCompileInputs.cache

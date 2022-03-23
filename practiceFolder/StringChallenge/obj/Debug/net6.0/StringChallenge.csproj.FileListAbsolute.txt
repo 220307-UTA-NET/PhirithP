@@ -1,0 +1,15 @@
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\StringChallenge\bin\Debug\net6.0\StringChallenge.exe
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\StringChallenge\bin\Debug\net6.0\StringChallenge.deps.json
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\StringChallenge\bin\Debug\net6.0\StringChallenge.runtimeconfig.json
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\StringChallenge\bin\Debug\net6.0\StringChallenge.dll
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\StringChallenge\bin\Debug\net6.0\StringChallenge.pdb
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\StringChallenge\obj\Debug\net6.0\StringChallenge.csproj.AssemblyReference.cache
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\StringChallenge\obj\Debug\net6.0\StringChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\StringChallenge\obj\Debug\net6.0\StringChallenge.AssemblyInfoInputs.cache
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\StringChallenge\obj\Debug\net6.0\StringChallenge.AssemblyInfo.cs
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\StringChallenge\obj\Debug\net6.0\StringChallenge.csproj.CoreCompileInputs.cache
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\StringChallenge\obj\Debug\net6.0\StringChallenge.dll
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\StringChallenge\obj\Debug\net6.0\refint\StringChallenge.dll
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\StringChallenge\obj\Debug\net6.0\StringChallenge.pdb
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\StringChallenge\obj\Debug\net6.0\StringChallenge.genruntimeconfig.cache
+C:\Users\cloudmaster\Revature\PhirithP\practiceFolder\StringChallenge\obj\Debug\net6.0\ref\StringChallenge.dll
